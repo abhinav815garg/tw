@@ -5,6 +5,5 @@ b1 = float(input("Enter value of b1: "))
 b2 = float(input("Enter value of b2: "))
 b3 = float(input("Enter value of b3: "))
 dp = (a1 * b1) + (a2 * b2) + (a3 * b3)
-print("Output\n")
 print("Dot product of both vector is: ", dp)
-
+print("Scalar product")
