@@ -1,5 +1,5 @@
 # Vector Dot-Product
-The **dot product** (or scalar product) of two vectors is a mathematical operation that takes two vectors and returns a single scalar (real number). It is defined as the product of the magnitudes of the two vectors and the _cosine_ of the angle between them.
+The [**dot product**](https://en.wikipedia.org/wiki/Dot_product) (or scalar product) of two vectors is a mathematical operation that takes two vectors and returns a single scalar (real number). It is defined as the product of the magnitudes of the two vectors and the _cosine_ of the angle between them.
 
 Mathematically, if two vectors are given as: **A** = <a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>> and **B** = <b<sub>1</sub>, b<sub>2</sub>, b<sub>3</sub>>, their dot-product is given as:\
 **A.B** = a<sub>1</sub>.b<sub>1</sub> + a<sub>2</sub>.b<sub>2</sub> + a<sub>3</sub>.b<sub>3</sub>\
@@ -15,4 +15,4 @@ $\theta$ = Angle between two vectors
 - Distributive: **A.(B+C)** = **A.B + A.C**
 - Associative: **(cA).B** = **c.(A.B)**
 > [!Note]
-> Associative is only valid if multiplied by scalar only.
+> Associativity is only valid if multiplied by scalar only.
